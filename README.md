@@ -90,5 +90,5 @@ python main.py
 ## If You Want To Know More About uv 
 check this out:-
 YT-- Tech With Tim
-(UV)
+Search:-- Uv introduction or uv initializion or uv (only)
 
