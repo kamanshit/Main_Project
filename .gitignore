@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual Environment
+.venv/
+
+# Dataset
+dataset/
+
+# Models
+models/*.h5
